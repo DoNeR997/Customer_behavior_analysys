@@ -25,6 +25,7 @@ Outliers (where applicable)
 
 (Dataset source can be mentioned here if public or anonymized if private.)
 
+
 🛠 Tools & Technologies
 
 Python – Data loading, cleaning, and EDA
@@ -40,6 +41,7 @@ Power BI – Interactive dashboard creation
 Gamma – Presentation (PPT) creation
 
 Git/GitHub – Version control and project sharing
+
 
 🔍 Project Steps
 
@@ -83,6 +85,7 @@ Created a structured analytics report.
 
 Designed a professional PPT using Gamma to communicate insights clearly.
 
+
 📈 Dashboard
 
 The Power BI dashboard provides:
@@ -97,6 +100,7 @@ Clear visual storytelling for stakeholders
 
 (Screenshots or a link to the dashboard can be added here.)
 
+
 📊 Results & Insights
 
 Identified key trends and patterns in the data.
@@ -106,6 +110,7 @@ Answered important analytical questions using SQL.
 Delivered actionable insights through visualizations.
 
 Presented findings in a clear, business-focused manner.
+
 
 ▶️ How to Run the Project
 
@@ -128,6 +133,7 @@ Execute the provided SQL queries.
 Open the Power BI file to explore the dashboard.
 
 Review the report and presentation for final insights.
+
 
 📬 Contact
 
