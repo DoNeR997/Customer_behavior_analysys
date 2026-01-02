@@ -7,7 +7,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 
 The project showcases practical skills in Python, SQL, data visualization, and business reporting.
 
-📂 Dataset
+                                                            📂 Dataset
 
 The dataset was loaded and analyzed using Python.
 
@@ -26,7 +26,7 @@ Outliers (where applicable)
 (Dataset source can be mentioned here if public or anonymized if private.)
 
 
-🛠 Tools & Technologies
+                                                          🛠 Tools & Technologies
 
 Python – Data loading, cleaning, and EDA
 
@@ -43,7 +43,7 @@ Gamma – Presentation (PPT) creation
 Git/GitHub – Version control and project sharing
 
 
-🔍 Project Steps
+                                                            🔍 Project Steps
 
 Data Loading
 
@@ -86,7 +86,7 @@ Created a structured analytics report.
 Designed a professional PPT using Gamma to communicate insights clearly.
 
 
-📈 Dashboard
+                                                            📈 Dashboard
 
 The Power BI dashboard provides:
 
@@ -99,7 +99,7 @@ Interactive filters for deeper exploration
 Clear visual storytelling for stakeholders
 
 
-📊 Results & Insights
+                                                        📊 Results & Insights
 
 Identified key trends and patterns in the data.
 
@@ -110,7 +110,7 @@ Delivered actionable insights through visualizations.
 Presented findings in a clear, business-focused manner.
 
 
-▶️ How to Run the Project
+                                                      ▶️ How to Run the Project
 
 Clone the repository:
 
