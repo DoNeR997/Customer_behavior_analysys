@@ -98,8 +98,6 @@ Interactive filters for deeper exploration
 
 Clear visual storytelling for stakeholders
 
-(Screenshots or a link to the dashboard can be added here.)
-
 
 📊 Results & Insights
 
