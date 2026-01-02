@@ -1,5 +1,6 @@
 # Customer_behavior_analysys
 📊 Data Analytics Project
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and exploration to insights generation and visualization. The goal is to analyze the dataset, clean and transform it, extract insights using SQL, and present results through an interactive Power BI dashboard and a professional report.
